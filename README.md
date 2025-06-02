@@ -1,4 +1,5 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY4BwEeHzS3HgDuh4TU5pRX6GvSqN5v542Jo8mVR9pubzu9so2KrcZ0V150osyXWmCuA&usqp=CAU" alt="MasterHead" style="width:1600px; height:120px; max-height:120px; object-fit: cover;" /> <h1 align="center">Hi 👋, I'm Syed Murtaza Mubarak</h1> <h3 align="center">A passionate frontend developer from Pakistan</h3> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="MasterHead" style="max-width: 100%;
+    display: inline-block;" /> <h1 align="center">Hi 👋, I'm Syed Murtaza Mubarak</h1> <h3 align="center">A passionate frontend web developer from Pakistan</h3> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedmurtazamubarak&label=Profile%20views&color=0e75b6&style=flat" alt="syedmurtazamubarak" /> </p>
 
