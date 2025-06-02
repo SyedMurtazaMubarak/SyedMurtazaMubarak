@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **syedmurtazamubarak1999@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact ** I like Cartoons, Animations, Jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
